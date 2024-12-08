@@ -1,0 +1,9 @@
+bot.py
+config.py
+daemon.py
+Recordurbate.py
+go.mod
+go.sum
+goGUI
+
+configs/*
